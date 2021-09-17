@@ -1,0 +1,11 @@
+C:\Users\casper\Desktop\BM102\Karışık Örnekler\millipiyango\bin\Debug\netcoreapp3.1\millipiyango.exe
+C:\Users\casper\Desktop\BM102\Karışık Örnekler\millipiyango\bin\Debug\netcoreapp3.1\millipiyango.deps.json
+C:\Users\casper\Desktop\BM102\Karışık Örnekler\millipiyango\bin\Debug\netcoreapp3.1\millipiyango.runtimeconfig.json
+C:\Users\casper\Desktop\BM102\Karışık Örnekler\millipiyango\bin\Debug\netcoreapp3.1\millipiyango.runtimeconfig.dev.json
+C:\Users\casper\Desktop\BM102\Karışık Örnekler\millipiyango\bin\Debug\netcoreapp3.1\millipiyango.dll
+C:\Users\casper\Desktop\BM102\Karışık Örnekler\millipiyango\bin\Debug\netcoreapp3.1\millipiyango.pdb
+C:\Users\casper\Desktop\BM102\Karışık Örnekler\millipiyango\obj\Debug\netcoreapp3.1\millipiyango.AssemblyInfoInputs.cache
+C:\Users\casper\Desktop\BM102\Karışık Örnekler\millipiyango\obj\Debug\netcoreapp3.1\millipiyango.AssemblyInfo.cs
+C:\Users\casper\Desktop\BM102\Karışık Örnekler\millipiyango\obj\Debug\netcoreapp3.1\millipiyango.dll
+C:\Users\casper\Desktop\BM102\Karışık Örnekler\millipiyango\obj\Debug\netcoreapp3.1\millipiyango.pdb
+C:\Users\casper\Desktop\BM102\Karışık Örnekler\millipiyango\obj\Debug\netcoreapp3.1\millipiyango.csprojAssemblyReference.cache
